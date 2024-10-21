@@ -1,0 +1,13 @@
+name = "Manual of Me"
+license = "MIT"
+licenselink = "https://github.com/gohugonet/manual-of-me/blob/master/LICENSE"
+description = "Hugo documentation theme for Manual of Me"
+homepage = "https://github.com/gohugonet/manual-of-me"
+demosite = "https://demo.gohugo.net/manualofme"
+tags = ["documentation", "hugo", "manual", "manualofme", "theme"]
+features = []
+min_version = "0.68"
+
+[author]
+name = "MDFriday"
+homepage = "https://mdfriday.com"

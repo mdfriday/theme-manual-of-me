@@ -1,0 +1,4 @@
+baseURL = "/"
+defaultLanguage = "en"
+title = "Manual of Me"
+theme = "manualofme"
