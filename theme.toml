@@ -1,0 +1,16 @@
+name = "Manual of Me"
+license = "MIT"
+licenselink = "https://github.com/mdfriday/theme-manual-of-me/blob/master/LICENSE"
+description = "Manual of Me is a personal profile theme designed to showcase who you are, the services you offer, ways to get in touch, and opportunities for collaboration. It highlights your experiences, skills, and passions, providing a clear and engaging introduction to your personal brand."
+
+homepage = "https://github.com/mdfriday/theme-manual-of-me"
+demosite = "https://demo.mdfriday.com/manualofme"
+
+tags = ["documentation", "hugo", "manual", "manualofme", "theme", "mdfriday"]
+features = ["responsive", "personal-brand", "business service", "service", "contact", "about-me"]
+
+[author]
+    name = "MDFriday"
+    homepage = "https://mdfriday.com"
+
+min_version = "0.112.7"

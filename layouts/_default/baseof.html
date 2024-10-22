@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="{{ default .Site.Language.Lang .Site.LanguageCode  }}">
+<head>
+    {{ partial "header" . }}
+<body>
+<div class="container" id="themanual">
+    {{ partial "cover" . }}
+    {{ template "main" . }} <!-- Page Content -->
+</div>
+{{ partial "footer" . }} <!-- Footer under page content -->
+</body>
+</html>
+
+{{ define "main" }}
+<div id="entries">
+    {{ range .Site.RegularPages -}}
+        <div class="item">
+            <div class="entry">
+
+                <div class="question">
+                    {{ .Title }}
+                </div>
+
+                <div class="answer">
+                    <div class="markdown">
+                        {{ .Content }}
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+    {{ end -}}
+</div>
+{{ end }}

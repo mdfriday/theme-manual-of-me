@@ -1,0 +1,13 @@
+baseURL = "/"
+defaultLanguage = "en"
+title = "老袁的操作手册"
+theme = "manualofme"
+description = "has created a Manual of Me to explore and explain how they work best with you."
+
+[module]
+[[module.imports]]
+path = 'github.com/mdfriday/theme-manual-of-me'
+
+[params]
+    Author = '老袁讲敏捷'
+    CoverImage = 'cover.jpeg'
