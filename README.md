@@ -10,7 +10,7 @@ Manual of Me is a personal profile theme designed to showcase who you are, the s
 and opportunities for collaboration. It highlights your experiences, skills, and passions, 
 providing a clear and engaging introduction to your personal brand.
 
-![Screenshot](https://github.com/mdfriday/theme-manual-of-me/blob/master/images/screenshot.png)
+![Screenshot](https://github.com/mdfriday/theme-manual-of-me/blob/main/images/screenshot.png)
 
 - [Features](#features)
 - [Requirements](#requirements)
