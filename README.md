@@ -2,7 +2,7 @@
 
 [![Hugo](https://img.shields.io/badge/hugo-0.134-blue.svg)](https://gohugo.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![Build with Hugo](https://github.com/mdfriday/theme-manual-of-me/workflows/Build%20with%20Hugo/badge.svg)
+[![Build with Hugo](https://github.com/mdfriday/theme-manual-of-me/actions/workflows/main.yml/badge.svg)](https://github.com/mdfriday/theme-manual-of-me/actions/workflows/main.yml)
 
 ### [MD Friday](https://mdfriday.com) personal brand Hugo theme 
 
