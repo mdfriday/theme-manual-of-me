@@ -1,10 +1,10 @@
-# Hugo Manual of Me Theme ｜ [Demo](https://laoyuan.app.mdfriday.com/)
+<h1 align=center>Hugo Manual of Me Theme | <a href="https://laoyuan.app.mdfriday.com" rel="nofollow">Demo</a></h1>
 
 [![Hugo](https://img.shields.io/badge/hugo-0.134-blue.svg)](https://gohugo.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Build with Hugo](https://github.com/mdfriday/theme-manual-of-me/actions/workflows/main.yml/badge.svg)](https://github.com/mdfriday/theme-manual-of-me/actions/workflows/main.yml)
 
-### [MD Friday](https://mdfriday.com) personal brand Hugo theme 
+<h3><a href="https://mdfriday.com" rel="nofollow">MD Friday</a> personal branding Hugo theme</h3>
 
 Manual of Me is a personal profile theme designed to showcase who you are, the services you offer, ways to get in touch, 
 and opportunities for collaboration. It highlights your experiences, skills, and passions, 
